@@ -1,0 +1,22 @@
+
+BL40A2010 Introduction to IoT-Based Systems
+Assignment 1, DD.MM.YYYY
+Author: XXXXX
+
+(1) Analyze an electric heater as a system following Example 1.1.
+
+Answer:
+
+(2) Give one example for each scientific rationalities presented in Section 1.2.1 similar to Example 1.2.
+
+Answer:
+
+(3) Download the air temperature data of one year from FMI at the city/region you currently live. Make four (arbitrary) time series plots for one year, one month, one week and one day.
+
+Hint: Code like in the tutorial notebook.
+In [ ]:
+
+
+(4) Consider a house with an electric heater. How the electricity consumption of the heater would be affected by the air temperature? Is there a way to change this?
+
+Answer:
